@@ -1,4 +1,4 @@
-# Timeflow AI Project Pilot
+# Timeflow
 
 Timeflow AI is a modern web application designed to streamline workflow automation using AI-powered tools. This project focuses on a high-performance frontend experience with seamless user interactions and real-time data processing.
 
